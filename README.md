@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://your-banner-image-url.png" width="100%" alt="Banner"/>
+  <img src="https://repository-images.githubusercontent.com/366397300/fc1bd42b-06cd-49b0-aff4-1999714b3ab3" width="100%" alt="Banner"/>
 </div>
 
 # Desenvolvedor Python & Segurança | FullStack | IA
 
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Specialist-red?style=flat&logo=hackaday&logoColor=white)](https://github.com/SEU_USERNAME)
-[![AI](https://img.shields.io/badge/AI-Developer-brightgreen?style=flat&logo=tensorflow&logoColor=white)](https://github.com/SEU_USERNAME)
+[![Security](https://img.shields.io/badge/Security-Specialist-red?style=flat&logo=hackaday&logoColor=white)](https://github.com/Gabs77u)
+[![AI](https://img.shields.io/badge/AI-Developer-brightgreen?style=flat&logo=tensorflow&logoColor=white)](https://github.com/Gabs77u)
 
 ## 🎯 Especialidades
 
@@ -18,7 +18,7 @@
 
 ## 💻 Stack Tecnológico
 
-``python
+```python
 tech_stack = {
     'Languages': ['Python', 'JavaScript', 'SQL'],
     'Security': ['Reverse Engineering', 'Exploit Development', 'Pentesting'],
@@ -26,7 +26,7 @@ tech_stack = {
     'Web': ['Django', 'Flask', 'FastAPI', 'React'],
     'DevOps': ['Docker', 'Git', 'CI/CD'],
     'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
-  
+}
 
 ## 📊 Métricas GitHub
 
