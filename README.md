@@ -41,6 +41,9 @@
   <a href="https://github.com/Gabs77u/gen_wordlist">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabs77u&repo=gen_wordlist&theme=dracula" />
   </a>
+  <a href="https://github.com/Gabs77u/Web-Design">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabs77u&repo=Web-Design&theme=dracula" />
+  </a>
 </div>
 
 ## 📫 Conecte-se
