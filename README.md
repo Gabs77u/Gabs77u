@@ -19,24 +19,7 @@
 ## 💻 Stack Tecnológico
 
 ```python
-tech_stack = {
-    'Languages': ['Python', 'JavaScript', 'SQL'],
-    'Security': ['Reverse Engineering', 'Exploit Development', 'Pentesting'],
-    'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'NLTK'],
-    'Web': ['Django', 'Flask', 'FastAPI', 'React'],
-    'DevOps': ['Docker', 'Git', 'CI/CD'],
-    'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
-}
-```markdown
-<div align="center">
-  <img src="https://your-banner-image-url.png" width="100%" alt="Banner"/>
-</div>
 
-# Desenvolvedor Python & Segurança | FullStack | IA
-
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-Specialist-red?style=flat&logo=hackaday&logoColor=white)](https://github.com/SEU_USERNAME)
-[![AI](https://img.shields.io/badge/AI-Developer-brightgreen?style=flat&logo=tensorflow&logoColor=white)](https://github.com/SEU_USERNAME)
 
 ## 🎯 Especialidades
 
@@ -46,24 +29,13 @@ tech_stack = {
 - 🌐 Desenvolvimento Web FullStack
 - 🛠️ Automação & Scripting
 
-## 💻 Stack Tecnológico
-
-```python
-tech_stack = {
-    'Languages': ['Python', 'JavaScript', 'SQL'],
-    'Security': ['Reverse Engineering', 'Exploit Development', 'Pentesting'],
-    'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'NLTK'],
-    'Web': ['Django', 'Flask', 'FastAPI', 'React'],
-    'DevOps': ['Docker', 'Git', 'CI/CD'],
-    'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
-}
 ```
 
 ## 📊 Métricas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabs77u&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabs77u&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🚀 Projetos em Destaque
