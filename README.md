@@ -18,15 +18,12 @@
 
 ## 💻 Stack Tecnológico
 
-```python
-tech_stack = {
-    'Languages': ['Python', 'JavaScript', 'SQL'],
-    'Security': ['Reverse Engineering', 'Exploit Development', 'Pentesting'],
-    'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'NLTK'],
-    'Web': ['Django', 'Flask', 'FastAPI', 'React'],
-    'DevOps': ['Docker', 'Git', 'CI/CD'],
-    'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
-}
+- **Linguagens:** Python, JavaScript, SQL
+- **Segurança:** Reverse Engineering, Exploit Development, Pentesting
+- **IA/ML:** TensorFlow, PyTorch, Scikit-learn, NLTK
+- **Web:** Django, Flask, FastAPI, React, HTML5, CSS3, Diversos Frameworks
+- **DevOps:** Docker, Git, CI/CD, Unit Tests
+- **Bancos de Dados:** PostgreSQL, MySql, Redis, Apache Server
 
 ## 📊 Métricas GitHub
 
