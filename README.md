@@ -18,18 +18,15 @@
 
 ## 💻 Stack Tecnológico
 
-```python
-
-
-## 🎯 Especialidades
-
-- 🐍 Desenvolvimento Python avançado
-- 🔒 Pesquisa em Segurança & Desenvolvimento de Exploits
-- 🧠 Implementação de Soluções em IA
-- 🌐 Desenvolvimento Web FullStack
-- 🛠️ Automação & Scripting
-
-```
+``python
+tech_stack = {
+    'Languages': ['Python', 'JavaScript', 'SQL'],
+    'Security': ['Reverse Engineering', 'Exploit Development', 'Pentesting'],
+    'AI/ML': ['TensorFlow', 'PyTorch', 'Scikit-learn', 'NLTK'],
+    'Web': ['Django', 'Flask', 'FastAPI', 'React'],
+    'DevOps': ['Docker', 'Git', 'CI/CD'],
+    'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
+    ``
 
 ## 📊 Métricas GitHub
 
