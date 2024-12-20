@@ -26,7 +26,7 @@ tech_stack = {
     'Web': ['Django', 'Flask', 'FastAPI', 'React'],
     'DevOps': ['Docker', 'Git', 'CI/CD'],
     'Databases': ['PostgreSQL', 'MongoDB', 'Redis']
-    ``
+  
 
 ## 📊 Métricas GitHub
 
